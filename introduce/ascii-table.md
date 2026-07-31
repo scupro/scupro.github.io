@@ -1,0 +1,1 @@
+ASCII（American Standard Code for Information Interchange，United States）， 128 ，， ISO/IEC 646。 ASCII 1967 ， 1986 ， 33 （Features） 95 。 ### Tool URL URL：[ASCII](https://scupro.github.io/tool/ascii/) Source：[https://scupro.github.io/tool/detial/76](https://scupro.github.io/tool/detial/76) 

@@ -1,0 +1,1 @@
+### Tool： 、URLURLURL，（qqdl://），（thunder://），(flashget://)，URL（http,https,ftp,ftps） ，//URL，，URL； URL，URL，URL，。 ### How to Use： 1）URL，、、、URL； 2）“”，URL，。 ### Tool URL URL：[](https://scupro.github.io/php/changeurl/) Source：[https://scupro.github.io/tool/detial/71](https://scupro.github.io/tool/detial/71) 

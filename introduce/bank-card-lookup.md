@@ -1,0 +1,1 @@
+BIN， Bank Identification Number。BIN6，6，(ISO)。 ，：(BIN)、、。 ，，，BIN“4”VISA，“5”MasterCard ，“9”“62”、“60”China，“62”、“60”，，China。 ### Tool URL URL：[](https://scupro.github.io/tool/bankinfo/) Source：[https://scupro.github.io/tool/detial/205](https://scupro.github.io/tool/detial/205)

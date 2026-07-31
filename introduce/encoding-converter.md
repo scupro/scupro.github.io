@@ -1,0 +1,1 @@
+Tool，utf-8、utf-32、Punycode、Base64Quoted-printable，。 ### Description： \uxxxx:xxxx16 unicodechar。 \Uxxxxxxxx32xxxxxxxx（Unicode）。 &#?????;html（tag）。 PunycodeRFC 3492,UnicodeDNS。PunycodeIDN。 ### Tool URL URL：[Tool](https://scupro.github.io/tool/transcoding/) Source：[https://scupro.github.io/tool/detial/196](https://scupro.github.io/tool/detial/196) 

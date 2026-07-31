@@ -1,0 +1,1 @@
+: RGB,RGB,RGB。 ### ： 1.，(R)、(G)、(B)，RGB，，（）RGB：(255,0,0) hex(FF0000)。 2."->->->->"12：，，，，，，，，，，，。 3.。，，。。()，，，。，,。 ### Tool URL URL：[](https://scupro.github.io/tool/rgbcolor/) Source：[https://scupro.github.io/tool/detial/45](https://scupro.github.io/tool/detial/45) 

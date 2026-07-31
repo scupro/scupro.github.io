@@ -1,0 +1,1 @@
+### 24 ，!。，(J/Q/K/)，1～1040(1A)。4()，、、、(，)24。。3、8、8、9，(9-8)×8×3=24。 ，。，，。 ### 24 ，，24。4，，24，24。24，《》，，，，。 ### Tool URL URL：[24 - ](https://scupro.github.io/tool/24dian/) Source：[https://scupro.github.io/tool/detial/189](https://scupro.github.io/tool/detial/189) 

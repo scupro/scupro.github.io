@@ -1,0 +1,1 @@
+whoisIP。，whois，（、）。whois。+whois，Tool，。Toolwhois，Tool。whoisTCP43。/IPwhois。 ### Whois WhoisFeatures、、。 ### Tool URL URL：[whois](https://scupro.github.io/php/whois/) Source：[https://scupro.github.io/tool/detial/88](https://scupro.github.io/tool/detial/88) 

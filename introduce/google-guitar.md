@@ -1,0 +1,1 @@
+Google Doodle·（Les Paul，191569－2009813）96，Logo，，“”。 ，，。 ### Description 1、Q、A、Zdo 2、W、S、Xre 3、E、D、Cmi 4、R、F、Vfa 5、T、G、Bso 6、Y、H、Nla 7、U、J、Msi 8、I、K、,do 9、O、L、.re 0、P、;、/mi ### Tool URL URL：[](https://scupro.github.io/tool/guitar/) Source：[https://scupro.github.io/tool/detial/218](https://scupro.github.io/tool/detial/218)
