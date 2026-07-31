@@ -1,6 +1,6 @@
 # 🛠️ fly63 Online Toolbox - Free, Minimalist & Efficient Web Utilities
 
-> **🌟 Try Now: [https://scupro.github.io](https://scupro.github.io/tool/home.html), [README in Chinese](README.md)**  
+> **🌟 Try Now: [https://scupro.github.io](https://scupro.github.io/),
 > *Tools work globally regardless of language!*
 
 **scupro Toolbox** is a 100% **free**, zero-ads, no-registration-required collection of **single-purpose web utilities** for developers and digital professionals. Optimized for speed and simplicity.
