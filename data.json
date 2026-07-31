@@ -1,0 +1,2567 @@
+[
+  {
+    "name": "cssOnlineReferenceManual, IncludingCSS2, CSS3etc.Contents",
+    "url": "https://scupro.github.io/manual/cs",
+    "type": "Documentation"
+  },
+  {
+    "name": "JavaScriptOnlineReferenceManual",
+    "url": "https://scupro.github.io/manual/JavaScript",
+    "type": "Documentation"
+  },
+  {
+    "name": "JavascriptorHTMLOnlineBeautify，Format",
+    "url": "https://scupro.github.io/tool/beautify",
+    "type": "Code"
+  },
+  {
+    "name": "QR Code Generator",
+    "url": "https://scupro.github.io/tool/ewm",
+    "type": "QR Code"
+  },
+  {
+    "name": "Chinese to Pinyin Converter",
+    "url": "https://scupro.github.io/tool/pinyin",
+    "type": "Converter"
+  },
+  {
+    "name": "Editor Tool",
+    "url": "https://scupro.github.io/tool/paiban",
+    "type": "Other"
+  },
+  {
+    "name": "Password Generator",
+    "url": "https://scupro.github.io/tool/password",
+    "type": "Encryption"
+  },
+  {
+    "name": "CSSCodeBeautifyTool",
+    "url": "https://scupro.github.io/tool/cs",
+    "type": "CSS"
+  },
+  {
+    "name": "CSS3OnlineStyleGenerator",
+    "url": "https://scupro.github.io/tool/cs3",
+    "type": "CSS"
+  },
+  {
+    "name": "Simplified/Traditional Converter",
+    "url": "https://scupro.github.io/tool/fantizi",
+    "type": "Converter"
+  },
+  {
+    "name": "Scientific Calculator",
+    "url": "https://scupro.github.io/tool/jisuanqi",
+    "type": "Life"
+  },
+  {
+    "name": "HTML/CSS/JavascriptOnlineCodeRunTool",
+    "url": "https://scupro.github.io/tool/runcode",
+    "type": "Code"
+  },
+  {
+    "name": "CSS3 Flexbox Demo",
+    "url": "https://scupro.github.io/tool/flexbox",
+    "type": "CSS"
+  },
+  {
+    "name": "md5OnlineEncryptTool",
+    "url": "https://scupro.github.io/tool/md5",
+    "type": "Encryption"
+  },
+  {
+    "name": "Regex Debugger",
+    "url": "https://scupro.github.io/tool/regex",
+    "type": "Code"
+  },
+  {
+    "name": "JSONFormatandHighlight",
+    "url": "https://scupro.github.io/tool/jon",
+    "type": "Code"
+  },
+  {
+    "name": "DESOnlineEncryptDecrypt",
+    "url": "https://scupro.github.io/tool/des",
+    "type": "Encryption"
+  },
+  {
+    "name": "ImageOnlineConverterBase64Data",
+    "url": "https://scupro.github.io/tool/base64",
+    "type": "Image"
+  },
+  {
+    "name": "HTML5 Tags Periodic Table",
+    "url": "https://scupro.github.io/tool/html5",
+    "type": "CSS"
+  },
+  {
+    "name": "React.js Documentation",
+    "url": "https://scupro.github.io/tool/rectdoc",
+    "type": "Documentation"
+  },
+  {
+    "name": "JqueryOnlineReferenceManual",
+    "url": "https://scupro.github.io/manual/jquery",
+    "type": "Documentation"
+  },
+  {
+    "name": "ImageFormatwebp/png/jpegConverterTool",
+    "url": "https://scupro.github.io/tool/imgformat",
+    "type": "Image"
+  },
+  {
+    "name": "Base Number Converter",
+    "url": "https://scupro.github.io/tool/radix",
+    "type": "Converter"
+  },
+  {
+    "name": "Website Development [Ad]",
+    "url": "https://scupro.github.io/website",
+    "type": "Other"
+  },
+  {
+    "name": "Nonsense Article Generator",
+    "url": "https://scupro.github.io/tool/bullshitGenerator",
+    "type": "Entertainment"
+  },
+  {
+    "name": "Compliment Generator",
+    "url": "https://scupro.github.io/tool/rainbowfart",
+    "type": "Entertainment"
+  },
+  {
+    "name": "Article Spinner",
+    "url": "https://scupro.github.io/php/weiyuanchuang",
+    "type": "Webmaster"
+  },
+  {
+    "name": "Mortgage Calculator",
+    "url": "https://scupro.github.io/tool/fangdai",
+    "type": "Life"
+  },
+  {
+    "name": "CodeOnlineEditorIDE",
+    "url": "https://scupro.github.io/tool/editoronline",
+    "type": "Code"
+  },
+  {
+    "name": "Animate.cssDemo",
+    "url": "https://scupro.github.io/tool/animate",
+    "type": "CSS"
+  },
+  {
+    "name": "CssConverterSass/Less/StylusOnlineTool",
+    "url": "https://scupro.github.io/tool/csass",
+    "type": "CSS"
+  },
+  {
+    "name": "Image Color Picker",
+    "url": "https://scupro.github.io/tool/imagecolor",
+    "type": "Image"
+  },
+  {
+    "name": "RGB/RGBA/HEX/HSL/HSVColorOnlineConverterTool",
+    "url": "https://scupro.github.io/tool/color",
+    "type": "Converter"
+  },
+  {
+    "name": "RMB Uppercase Converter",
+    "url": "https://scupro.github.io/tool/renmingbi",
+    "type": "Converter"
+  },
+  {
+    "name": "MarkdownOnlineEditor",
+    "url": "https://scupro.github.io/tool/markdown",
+    "type": "Webmaster"
+  },
+  {
+    "name": "Placeholder Image Generator",
+    "url": "https://scupro.github.io/tool/bitmap",
+    "type": "Webmaster"
+  },
+  {
+    "name": "Chinese/UnicodeOnlineConverter",
+    "url": "https://scupro.github.io/tool/unicode",
+    "type": "Converter"
+  },
+  {
+    "name": "CSSGenerator",
+    "url": "https://scupro.github.io/tool/csbtn",
+    "type": "CSS"
+  },
+  {
+    "name": "OnlinejsCodeGenerateTool",
+    "url": "https://scupro.github.io/tool/code",
+    "type": "Code"
+  },
+  {
+    "name": "Toxic Quotes",
+    "url": "https://scupro.github.io/php/dujitang",
+    "type": "Entertainment"
+  },
+  {
+    "name": "Copywriting, SentencesQuotesCollection",
+    "url": "https://scupro.github.io/php/juzi",
+    "type": "Entertainment"
+  },
+  {
+    "name": "Daily Classical Poetry",
+    "url": "https://scupro.github.io/php/poetry",
+    "type": "Entertainment"
+  },
+  {
+    "name": "Fun IOSQualityAppRecommend",
+    "url": "https://scupro.github.io/tool/app",
+    "type": "Entertainment"
+  },
+  {
+    "name": "QR Code Decoder",
+    "url": "https://scupro.github.io/php/decoder",
+    "type": "QR Code"
+  },
+  {
+    "name": "Encryption Tool (Base64/AES/DES)",
+    "url": "https://scupro.github.io/tool/cipher",
+    "type": "Encryption"
+  },
+  {
+    "name": "Web Navigation",
+    "url": "https://scupro.github.io/tool/dao",
+    "type": "Life"
+  },
+  {
+    "name": "HTTPInterfaceOnlineSimulationTestTool",
+    "url": "https://scupro.github.io/php/http",
+    "type": "Code"
+  },
+  {
+    "name": "Color Picker",
+    "url": "https://scupro.github.io/tool/rgbcolor",
+    "type": "CSS"
+  },
+  {
+    "name": "Webmaster Encoder/Decoder",
+    "url": "https://scupro.github.io/tool/etc",
+    "type": "Webmaster"
+  },
+  {
+    "name": "ImageBatchCompressTool(ImageSizeModify)",
+    "url": "https://scupro.github.io/tool/picys",
+    "type": "Image"
+  },
+  {
+    "name": "MarkdownWeChatPublicEditorEditor",
+    "url": "https://scupro.github.io/tool/weixinmd",
+    "type": "Webmaster"
+  },
+  {
+    "name": "CSSTriangleGenerator",
+    "url": "https://scupro.github.io/tool/cstriangle",
+    "type": "CSS"
+  },
+  {
+    "name": "ECMAScript 6 Tutorial",
+    "url": "https://scupro.github.io/tool/es6",
+    "type": "Documentation"
+  },
+  {
+    "name": "FreeFastConverterVideoConvertertoGif",
+    "url": "https://scupro.github.io/tool/giftxt",
+    "type": "Converter"
+  },
+  {
+    "name": "Html/MarkDownOnlineConverterTool",
+    "url": "https://scupro.github.io/tool/htmarkdown",
+    "type": "Converter"
+  },
+  {
+    "name": "Domain/IPQuery",
+    "url": "https://scupro.github.io/php/ipquery",
+    "type": "Webmaster"
+  },
+  {
+    "name": "Calendar Converter",
+    "url": "https://scupro.github.io/tool/calendar",
+    "type": "Life"
+  },
+  {
+    "name": "HtaccessOnlineConverternginx",
+    "url": "https://scupro.github.io/tool/htaccess2nginx",
+    "type": "Converter"
+  },
+  {
+    "name": "Responsive Preview Tool",
+    "url": "https://scupro.github.io/tool/preview",
+    "type": "Webmaster"
+  },
+  {
+    "name": "metaOnlineGenerateTool",
+    "url": "https://scupro.github.io/tool/meta",
+    "type": "Webmaster"
+  },
+  {
+    "name": "JSON/YAMLOnlineConverter",
+    "url": "https://scupro.github.io/tool/jsonyaml",
+    "type": "Converter"
+  },
+  {
+    "name": "Phone Number Lookup",
+    "url": "https://scupro.github.io/php/mobile",
+    "type": "Life"
+  },
+  {
+    "name": "OnlineTextCompare_DiffDocumentationComparisonTool",
+    "url": "https://scupro.github.io/tool/textdiff",
+    "type": "Code"
+  },
+  {
+    "name": "WeChat QR Generator",
+    "url": "https://scupro.github.io/php/wxerm",
+    "type": "QR Code"
+  },
+  {
+    "name": "npm ChineseDocumentation",
+    "url": "https://scupro.github.io/tool/npmdoc",
+    "type": "Documentation"
+  },
+  {
+    "name": "Node.jsChineseDocumentation",
+    "url": "https://scupro.github.io/tool/nodedoc",
+    "type": "Documentation"
+  },
+  {
+    "name": "ImageOnlineGenerateICO",
+    "url": "https://scupro.github.io/php/ico",
+    "type": "Image"
+  },
+  {
+    "name": "Email Directory",
+    "url": "https://scupro.github.io/tool/email",
+    "type": "Webmaster"
+  },
+  {
+    "name": "Short URL Generator",
+    "url": "https://scupro.github.io/php/shorturl",
+    "type": "Webmaster"
+  },
+  {
+    "name": "Flowchart Generator",
+    "url": "https://scupro.github.io/tool/drawsvg",
+    "type": "Image"
+  },
+  {
+    "name": "PDFFileConverterImageTool",
+    "url": "https://scupro.github.io/tool/pdf2img",
+    "type": "Image"
+  },
+  {
+    "name": "htmljsOnlineTool",
+    "url": "https://scupro.github.io/tool/html2js",
+    "type": "Code"
+  },
+  {
+    "name": "uuidOnlineGenerator",
+    "url": "https://scupro.github.io/tool/uuid",
+    "type": "Code"
+  },
+  {
+    "name": "Download Link Converter",
+    "url": "https://scupro.github.io/php/changeurl",
+    "type": "Converter"
+  },
+  {
+    "name": "curlCode",
+    "url": "https://scupro.github.io/tool/curl2code",
+    "type": "Code"
+  },
+  {
+    "name": "SVGPNGImageTool",
+    "url": "https://scupro.github.io/tool/svg2img",
+    "type": "Converter"
+  },
+  {
+    "name": "TextTool(，，)",
+    "url": "https://scupro.github.io/tool/quchong",
+    "type": "Converter"
+  },
+  {
+    "name": "Batch Text Replacer",
+    "url": "https://scupro.github.io/tool/textreplace",
+    "type": "Converter"
+  },
+  {
+    "name": "ASCIIReference Table",
+    "url": "https://scupro.github.io/tool/ascii",
+    "type": "Code"
+  },
+  {
+    "name": "JsEncryptObfuscate/CompressTool",
+    "url": "https://scupro.github.io/tool/jsblur",
+    "type": "Encryption"
+  },
+  {
+    "name": "Unit Converter",
+    "url": "https://scupro.github.io/tool/unitable",
+    "type": "Converter"
+  },
+  {
+    "name": "Technical Writing Guide",
+    "url": "https://scupro.github.io/tool/normdoc",
+    "type": "Documentation"
+  },
+  {
+    "name": "WeChat Wing Nickname",
+    "url": "https://scupro.github.io/tool/wing",
+    "type": "Entertainment"
+  },
+  {
+    "name": "Image Watermark",
+    "url": "https://scupro.github.io/tool/watermark",
+    "type": "Image"
+  },
+  {
+    "name": "Online Mind Map",
+    "url": "https://scupro.github.io/tool/rmind",
+    "type": "Image"
+  },
+  {
+    "name": "sqlFormat(Beautify), Compress",
+    "url": "https://scupro.github.io/tool/sqlformat",
+    "type": "Code"
+  },
+  {
+    "name": "RobotsFileGenerator",
+    "url": "https://scupro.github.io/tool/robots",
+    "type": "Webmaster"
+  },
+  {
+    "name": "CommonReference Table_HTTP, RGB, ASCII, TCP/UDPetc.",
+    "url": "https://scupro.github.io/tool/table",
+    "type": "Other"
+  },
+  {
+    "name": "WeChat Prank Generator",
+    "url": "https://scupro.github.io/tool/wxCreate",
+    "type": "Entertainment"
+  },
+  {
+    "name": "Video Screenshot",
+    "url": "https://scupro.github.io/tool/videoposter",
+    "type": "Image"
+  },
+  {
+    "name": "WebsiteDomainwhoisQuery",
+    "url": "https://scupro.github.io/php/whois",
+    "type": "Webmaster"
+  },
+  {
+    "name": "WIFIQR CodeGenerator",
+    "url": "https://scupro.github.io/tool/wifiewm",
+    "type": "QR Code"
+  },
+  {
+    "name": "On This Day",
+    "url": "https://scupro.github.io/php/todayHistory",
+    "type": "Entertainment"
+  },
+  {
+    "name": "Web Scraping",
+    "url": "https://scupro.github.io/php/crawl",
+    "type": "Code"
+  },
+  {
+    "name": "Text Encryption",
+    "url": "https://scupro.github.io/tool/txtencrypt",
+    "type": "Encryption"
+  },
+  {
+    "name": "Email Marketing",
+    "url": "https://scupro.github.io/php/mailer",
+    "type": "Webmaster"
+  },
+  {
+    "name": "What to Eat Today",
+    "url": "https://scupro.github.io/tool/chi",
+    "type": "Entertainment"
+  },
+  {
+    "name": "Emoji Collection",
+    "url": "https://scupro.github.io/php/emojiPkg",
+    "type": "Entertainment"
+  },
+  {
+    "name": "CSS Sprite Generator",
+    "url": "https://scupro.github.io/tool/sprite",
+    "type": "CSS"
+  },
+  {
+    "name": "Path Clip Tool",
+    "url": "https://scupro.github.io/tool/clippath",
+    "type": "CSS"
+  },
+  {
+    "name": "OnlineGenerateFontCSSStyleTool",
+    "url": "https://scupro.github.io/tool/cstxt",
+    "type": "CSS"
+  },
+  {
+    "name": "JSONOnlineTool",
+    "url": "https://scupro.github.io/tool/JsonFormat",
+    "type": "Code"
+  },
+  {
+    "name": "JSONGenerateJavaBean, C#Entity Class",
+    "url": "https://scupro.github.io/tool/JsonToModel",
+    "type": "Code"
+  },
+  {
+    "name": "Code to Image Tool",
+    "url": "https://scupro.github.io/tool/code2img",
+    "type": "Code"
+  },
+  {
+    "name": "Browser Mini Games",
+    "url": "https://scupro.github.io/tool/game",
+    "type": "Entertainment"
+  },
+  {
+    "name": "sqlOnlineDataDesignTool",
+    "url": "https://scupro.github.io/tool/sqldesigner",
+    "type": "Code"
+  },
+  {
+    "name": "Chinese Allegorical Sayings",
+    "url": "https://scupro.github.io/tool/xiehouyu",
+    "type": "Entertainment"
+  },
+  {
+    "name": "CSSGenerator",
+    "url": "https://scupro.github.io/tool/gradient",
+    "type": "CSS"
+  },
+  {
+    "name": "Domain Directory",
+    "url": "https://scupro.github.io/tool/domain",
+    "type": "Life"
+  },
+  {
+    "name": "Calligraphy Generator",
+    "url": "https://scupro.github.io/tool/zitie",
+    "type": "Life"
+  },
+  {
+    "name": "Word Count Tool",
+    "url": "https://scupro.github.io/tool/zishutongji",
+    "type": "Webmaster"
+  },
+  {
+    "name": "File Type Identifier",
+    "url": "https://scupro.github.io/tool/filetype",
+    "type": "Other"
+  },
+  {
+    "name": "SVGTool",
+    "url": "https://scupro.github.io/tool/svgchange",
+    "type": "CSS"
+  },
+  {
+    "name": "Chinese Character Breakdown",
+    "url": "https://scupro.github.io/tool/chaizi",
+    "type": "Other"
+  },
+  {
+    "name": "jsonExcel/csvTool",
+    "url": "https://scupro.github.io/tool/jsonscv",
+    "type": "Converter"
+  },
+  {
+    "name": "Timestamp Converter",
+    "url": "https://scupro.github.io/tool/etc/#?id=4",
+    "type": "Converter"
+  },
+  {
+    "name": "OnlineurlURLEncode, Decode",
+    "url": "https://scupro.github.io/tool/etc/#?id=3",
+    "type": "Converter"
+  },
+  {
+    "name": "Neumorphism - CSSDesignGenerator",
+    "url": "https://scupro.github.io/tool/neumorphism",
+    "type": "CSS"
+  },
+  {
+    "name": "CSSDemo",
+    "url": "https://scupro.github.io/tool/cssel",
+    "type": "CSS"
+  },
+  {
+    "name": "SVGOnlineEditor",
+    "url": "https://scupro.github.io/tool/svgeditor",
+    "type": "Image"
+  },
+  {
+    "name": "Tool_,,",
+    "url": "https://scupro.github.io/tool/diagram_sfd",
+    "type": "Image"
+  },
+  {
+    "name": "Days Counter",
+    "url": "https://scupro.github.io/tool/papapa",
+    "type": "Entertainment"
+  },
+  {
+    "name": "Family Tree Calculator",
+    "url": "https://scupro.github.io/tool/relationship",
+    "type": "Life"
+  },
+  {
+    "name": "World Timezones",
+    "url": "https://scupro.github.io/tool/areacode",
+    "type": "Life"
+  },
+  {
+    "name": "ElementCodeGenerator",
+    "url": "https://scupro.github.io/tool/element-form",
+    "type": "Code"
+  },
+  {
+    "name": "DocumentationOnlineEditorTool",
+    "url": "https://scupro.github.io/tool/text-ench",
+    "type": "Other"
+  },
+  {
+    "name": "OnlineCalculator",
+    "url": "https://scupro.github.io/tool/nianling",
+    "type": "Life"
+  },
+  {
+    "name": "layuiDocumentation",
+    "url": "https://scupro.github.io/manual/layui/web",
+    "type": "Documentation"
+  },
+  {
+    "name": "Calculator(Calculator)",
+    "url": "https://scupro.github.io/tool/nianlvli",
+    "type": "Life"
+  },
+  {
+    "name": "OnlineConverterImageGenerateascii",
+    "url": "https://scupro.github.io/tool/img2char",
+    "type": "Image"
+  },
+  {
+    "name": "_ConverterTool",
+    "url": "https://scupro.github.io/tool/coordinate",
+    "type": "Converter"
+  },
+  {
+    "name": "ASCIIGenerator",
+    "url": "https://scupro.github.io/tool/taag",
+    "type": "Converter"
+  },
+  {
+    "name": "OnlinehtmlTool",
+    "url": "https://scupro.github.io/tool/clearhtm",
+    "type": "Webmaster"
+  },
+  {
+    "name": "Image Cropper",
+    "url": "https://scupro.github.io/tool/imgcut",
+    "type": "Image"
+  },
+  {
+    "name": "9-Grid Image Splitter",
+    "url": "https://scupro.github.io/tool/jiugongge",
+    "type": "Image"
+  },
+  {
+    "name": "Chart Maker",
+    "url": "https://scupro.github.io/tool/chart",
+    "type": "Life"
+  },
+  {
+    "name": "Psych Testing Tool",
+    "url": "https://scupro.github.io/tool/test",
+    "type": "Life"
+  },
+  {
+    "name": "Photo Compositor",
+    "url": "https://scupro.github.io/tool/avatar",
+    "type": "Image"
+  },
+  {
+    "name": "GifImageto",
+    "url": "https://scupro.github.io/tool/gifres",
+    "type": "Image"
+  },
+  {
+    "name": "Idiom Chain Lookup",
+    "url": "https://scupro.github.io/tool/cyjl",
+    "type": "Entertainment"
+  },
+  {
+    "name": "Periodic Table",
+    "url": "https://scupro.github.io/tool/yuansu",
+    "type": "Life"
+  },
+  {
+    "name": "Barcode Generator",
+    "url": "https://scupro.github.io/php/barcode",
+    "type": "QR Code"
+  },
+  {
+    "name": "Calculator",
+    "url": "https://scupro.github.io/tool/gerenshui",
+    "type": "Life"
+  },
+  {
+    "name": "Photo Filter Tool",
+    "url": "https://scupro.github.io/tool/imgfilter",
+    "type": "Image"
+  },
+  {
+    "name": "CSS box-shadowStyle",
+    "url": "https://scupro.github.io/tool/shadow",
+    "type": "CSS"
+  },
+  {
+    "name": "Folk Proverbs",
+    "url": "https://scupro.github.io/tool/yanyu",
+    "type": "Entertainment"
+  },
+  {
+    "name": "Brain Teasers",
+    "url": "https://scupro.github.io/tool/naojin",
+    "type": "Entertainment"
+  },
+  {
+    "name": "Dream Interpretation",
+    "url": "https://scupro.github.io/tool/dream",
+    "type": "Life"
+  },
+  {
+    "name": "Sudoku Generator",
+    "url": "https://scupro.github.io/tool/sudoku",
+    "type": "Other"
+  },
+  {
+    "name": "Jokes Collection",
+    "url": "https://scupro.github.io/tool/joke",
+    "type": "Entertainment"
+  },
+  {
+    "name": "Nginx Docs",
+    "url": "https://scupro.github.io/tool/nginxdoc",
+    "type": "Documentation"
+  },
+  {
+    "name": "HTMLOnlineCompressTool",
+    "url": "https://scupro.github.io/tool/htmcpr",
+    "type": "Code"
+  },
+  {
+    "name": "linuxCommonQueryTool",
+    "url": "https://scupro.github.io/tool/linux",
+    "type": "Code"
+  },
+  {
+    "name": "jsongolang struct",
+    "url": "https://scupro.github.io/tool/json2go",
+    "type": "Converter"
+  },
+  {
+    "name": "Morse Code Translator",
+    "url": "https://scupro.github.io/tool/morse",
+    "type": "Encryption"
+  },
+  {
+    "name": "Cheesy Pick-up Lines",
+    "url": "https://scupro.github.io/tool/love",
+    "type": "Entertainment"
+  },
+  {
+    "name": "CrontabOnlineGenerator",
+    "url": "https://scupro.github.io/tool/crontab",
+    "type": "Code"
+  },
+  {
+    "name": "CSSOnlineCompress/Format/Beautify",
+    "url": "https://scupro.github.io/tool/csspack",
+    "type": "CSS"
+  },
+  {
+    "name": "VIMEditorCommon_OnlineSimulationLearningTool",
+    "url": "https://scupro.github.io/tool/vim",
+    "type": "Code"
+  },
+  {
+    "name": "ImageOnlineEditor",
+    "url": "https://scupro.github.io/tool/imgedit",
+    "type": "Image"
+  },
+  {
+    "name": "ChineseDictionary_OnlineCharacterQuery",
+    "url": "https://scupro.github.io/tool/zidian",
+    "type": "Other"
+  },
+  {
+    "name": "toDictionary",
+    "url": "https://scupro.github.io/tool/chengyu",
+    "type": "Other"
+  },
+  {
+    "name": "Tool_ProgrammerCode",
+    "url": "https://scupro.github.io/php/codevar",
+    "type": "Code"
+  },
+  {
+    "name": "WebsiteDomainICPQuery",
+    "url": "https://scupro.github.io/php/icp",
+    "type": "Webmaster"
+  },
+  {
+    "name": "BrowserCheck_userAgent",
+    "url": "https://scupro.github.io/tool/useragent",
+    "type": "Webmaster"
+  },
+  {
+    "name": "OnlineTestTool",
+    "url": "https://scupro.github.io/tool/regextest",
+    "type": "Code"
+  },
+  {
+    "name": "Collection",
+    "url": "https://scupro.github.io/tool/huayu",
+    "type": "Life"
+  },
+  {
+    "name": "AudioOnlineEditor",
+    "url": "https://scupro.github.io/tool/audioedit",
+    "type": "Other"
+  },
+  {
+    "name": "Online_Tool",
+    "url": "https://scupro.github.io/tool/screenRecord",
+    "type": "Other"
+  },
+  {
+    "name": "TimeCalculator",
+    "url": "https://scupro.github.io/tool/day",
+    "type": "Life"
+  },
+  {
+    "name": "WebfaviconMake",
+    "url": "https://scupro.github.io/tool/favicon",
+    "type": "Image"
+  },
+  {
+    "name": "ImageExtractTool",
+    "url": "https://scupro.github.io/tool/tesseract",
+    "type": "Image"
+  },
+  {
+    "name": "EnglishSizeConverter",
+    "url": "https://scupro.github.io/tool/daxiaoxie",
+    "type": "Converter"
+  },
+  {
+    "name": "XMLJSON, JSONXMLTool",
+    "url": "https://scupro.github.io/tool/xml2json",
+    "type": "Converter"
+  },
+  {
+    "name": "QueryTool",
+    "url": "https://scupro.github.io/tool/garbage",
+    "type": "Life"
+  },
+  {
+    "name": "Baby Name Generator",
+    "url": "https://scupro.github.io/tool/qiming",
+    "type": "Life"
+  },
+  {
+    "name": "webColorCollection - Web",
+    "url": "https://scupro.github.io/tool/colorMatch",
+    "type": "CSS"
+  },
+  {
+    "name": "Compound InterestCalculator_InvestmentFinanceCompound InterestOnline",
+    "url": "https://scupro.github.io/tool/fuli",
+    "type": "Life"
+  },
+  {
+    "name": "Calculator_()Online",
+    "url": "https://scupro.github.io/tool/prime",
+    "type": "Other"
+  },
+  {
+    "name": "OnlineRandomGenerator - GenerateRandom()",
+    "url": "https://scupro.github.io/tool/random",
+    "type": "Other"
+  },
+  {
+    "name": "Variance/StdDev Calculator",
+    "url": "https://scupro.github.io/tool/fangcha",
+    "type": "Other"
+  },
+  {
+    "name": "IP/ConverterTool",
+    "url": "https://scupro.github.io/tool/ipjisuan",
+    "type": "Other"
+  },
+  {
+    "name": "Minimalist Navigation",
+    "url": "http://hao.fly63.com",
+    "type": "Webmaster"
+  },
+  {
+    "name": "fooplotMath FunctionPlotterTool",
+    "url": "https://scupro.github.io/tool/fooplot",
+    "type": "Other"
+  },
+  {
+    "name": "Trigonometry Calculator",
+    "url": "https://scupro.github.io/tool/sanjiaohanshu",
+    "type": "Other"
+  },
+  {
+    "name": "Triangle Calculator",
+    "url": "https://scupro.github.io/tool/sanjiaoxingjiaodu",
+    "type": "Other"
+  },
+  {
+    "name": "OnlineCalculator - Online",
+    "url": "https://scupro.github.io/tool/baifenbi",
+    "type": "Other"
+  },
+  {
+    "name": "Emoji - Collection",
+    "url": "https://scupro.github.io/tool/fuhao",
+    "type": "Other"
+  },
+  {
+    "name": "Natural Log Calculator",
+    "url": "https://scupro.github.io/tool/zrds",
+    "type": "Other"
+  },
+  {
+    "name": "Collection - EncodeQuery",
+    "url": "https://scupro.github.io/tool/zipcode",
+    "type": "Life"
+  },
+  {
+    "name": "24Calculator - Online",
+    "url": "https://scupro.github.io/tool/24dian",
+    "type": "Other"
+  },
+  {
+    "name": "Glassmorphism - CSSGenerator",
+    "url": "https://scupro.github.io/tool/glassmorphism",
+    "type": "CSS"
+  },
+  {
+    "name": "2751JsCode",
+    "url": "https://scupro.github.io/tool/1loc",
+    "type": "Code"
+  },
+  {
+    "name": "css loading - CoolOnline",
+    "url": "https://scupro.github.io/tool/loading",
+    "type": "CSS"
+  },
+  {
+    "name": "cssDividerOnlineMake",
+    "url": "https://scupro.github.io/tool/cssplit",
+    "type": "CSS"
+  },
+  {
+    "name": "Website301/urlCodeGenerate",
+    "url": "https://scupro.github.io/tool/redirect",
+    "type": "Webmaster"
+  },
+  {
+    "name": "URLURL16EncryptTool",
+    "url": "https://scupro.github.io/tool/urlcode",
+    "type": "Encryption"
+  },
+  {
+    "name": "OnlineEncodeConverterTool",
+    "url": "https://scupro.github.io/tool/transcoding",
+    "type": "Encryption"
+  },
+  {
+    "name": "EscapeEncrypt/DecryptTool",
+    "url": "https://scupro.github.io/tool/escape",
+    "type": "Encryption"
+  },
+  {
+    "name": "TimeQueryConverterTool",
+    "url": "https://scupro.github.io/tool/worldtime",
+    "type": "Life"
+  },
+  {
+    "name": "PasswordSecurityOnlineCheck",
+    "url": "https://scupro.github.io/tool/passafe",
+    "type": "Encryption"
+  },
+  {
+    "name": "ProgrammerNavigation",
+    "url": "https://scupro.github.io/tool/cxy",
+    "type": "Other"
+  },
+  {
+    "name": "Trending News",
+    "url": "https://scupro.github.io/php/hotnews",
+    "type": "Webmaster"
+  },
+  {
+    "name": "Tongue Twisters",
+    "url": "https://scupro.github.io/tool/rkl",
+    "type": "Entertainment"
+  },
+  {
+    "name": "-",
+    "url": "https://scupro.github.io/tool/bjx",
+    "type": "Life"
+  },
+  {
+    "name": "Di Zi Gui Lookup",
+    "url": "https://scupro.github.io/tool/dzg",
+    "type": "Life"
+  },
+  {
+    "name": "Query",
+    "url": "https://scupro.github.io/tool/bankinfo",
+    "type": "Life"
+  },
+  {
+    "name": "Query",
+    "url": "https://scupro.github.io/tool/chepai",
+    "type": "Life"
+  },
+  {
+    "name": "Online",
+    "url": "https://scupro.github.io/tool/miaobiao",
+    "type": "Life"
+  },
+  {
+    "name": "Blood Type Inheritance",
+    "url": "https://scupro.github.io/tool/xuexing",
+    "type": "Life"
+  },
+  {
+    "name": "Reference Table()",
+    "url": "https://scupro.github.io/tool/size",
+    "type": "Life"
+  },
+  {
+    "name": "Query - QueryTool",
+    "url": "https://scupro.github.io/tool/laohuangli",
+    "type": "Life"
+  },
+  {
+    "name": ",",
+    "url": "https://scupro.github.io/tool/relax",
+    "type": "Life"
+  },
+  {
+    "name": "ChineseOnlineTool",
+    "url": "https://scupro.github.io/tool/segmentit",
+    "type": "Other"
+  },
+  {
+    "name": "Online",
+    "url": "https://scupro.github.io/tool/guitar",
+    "type": "Entertainment"
+  },
+  {
+    "name": "m3u8VideoOnlineExtractTool",
+    "url": "https://scupro.github.io/tool/m3u8",
+    "type": "Webmaster"
+  },
+  {
+    "name": "OnlineTool",
+    "url": "https://scupro.github.io/tool/whiteboard",
+    "type": "Image"
+  },
+  {
+    "name": "WeChat Domain Check",
+    "url": "https://scupro.github.io/php/wxCheck",
+    "type": "Webmaster"
+  },
+  {
+    "name": "PDFIdentify",
+    "url": "https://scupro.github.io/tool/pdfdraw",
+    "type": "Webmaster"
+  },
+  {
+    "name": "lrcLyricsOnlineEditTool",
+    "url": "https://scupro.github.io/tool/lrc_editor",
+    "type": "Life"
+  },
+  {
+    "name": "AICommon",
+    "url": "https://scupro.github.io/tool/aishort",
+    "type": "Webmaster"
+  },
+  {
+    "name": "Purine Content Lookup",
+    "url": "https://scupro.github.io/tool/purine",
+    "type": "Life"
+  },
+  {
+    "name": "Food Nutrition Lookup",
+    "url": "https://scupro.github.io/tool/food",
+    "type": "Life"
+  },
+  {
+    "name": "Tool",
+    "url": "https://scupro.github.io/tool/pixeldraw",
+    "type": "Image"
+  },
+  {
+    "name": "Font_EnglishGenerator",
+    "url": "https://scupro.github.io/tool/weirdfonts",
+    "type": "Other"
+  },
+  {
+    "name": "/Check",
+    "url": "https://scupro.github.io/tool/textcensoring",
+    "type": "Webmaster"
+  },
+  {
+    "name": "Simp Diary",
+    "url": "https://scupro.github.io/php/wedog",
+    "type": "Entertainment"
+  },
+  {
+    "name": "CopywritingQuotes",
+    "url": "https://scupro.github.io/php/caihongpi",
+    "type": "Entertainment"
+  },
+  {
+    "name": "Calculator_",
+    "url": "https://scupro.github.io/tool/heshui",
+    "type": "Life"
+  },
+  {
+    "name": "WeChat",
+    "url": "https://scupro.github.io/tool/alipay",
+    "type": "QR Code"
+  },
+  {
+    "name": "Photo to Pixel Art",
+    "url": "https://scupro.github.io/tool/pixelit",
+    "type": "Image"
+  },
+  {
+    "name": "keyCodeReference Table",
+    "url": "https://scupro.github.io/tool/keyboardcode",
+    "type": "Other"
+  },
+  {
+    "name": "World Capitals Table",
+    "url": "https://scupro.github.io/tool/shoudu",
+    "type": "Other"
+  },
+  {
+    "name": "Phone Directory",
+    "url": "https://scupro.github.io/tool/phone",
+    "type": "Life"
+  },
+  {
+    "name": "Timer_Tool",
+    "url": "https://scupro.github.io/tool/tomato",
+    "type": "Life"
+  },
+  {
+    "name": "Coin Flip",
+    "url": "https://scupro.github.io/tool/coin",
+    "type": "Life"
+  },
+  {
+    "name": "Collection, LunarQuery",
+    "url": "https://scupro.github.io/tool/jieri",
+    "type": "Life"
+  },
+  {
+    "name": "QueryTool",
+    "url": "https://scupro.github.io/tool/currency",
+    "type": "Other"
+  },
+  {
+    "name": "EnglishConverterTool",
+    "url": "https://scupro.github.io/tool/usDollarsConvert",
+    "type": "Life"
+  },
+  {
+    "name": "IPv4Query",
+    "url": "https://scupro.github.io/tool/ipv4",
+    "type": "Other"
+  },
+  {
+    "name": "Search Static Emojis",
+    "url": "https://scupro.github.io/tool/lookEmojis",
+    "type": "Entertainment"
+  },
+  {
+    "name": ", OnlineMake",
+    "url": "https://scupro.github.io/tool/vita",
+    "type": "Life"
+  },
+  {
+    "name": "AnalysisTool(Text)",
+    "url": "https://scupro.github.io/tool/keywordParticiple",
+    "type": "Webmaster"
+  },
+  {
+    "name": "OnlineBeautifyTool",
+    "url": "https://scupro.github.io/tool/shotPhoto",
+    "type": "Image"
+  },
+  {
+    "name": "QueryTool",
+    "url": "https://scupro.github.io/tool/shengxiao",
+    "type": "Life"
+  },
+  {
+    "name": "Tool",
+    "url": "https://scupro.github.io/tool/gezi",
+    "type": "Life"
+  },
+  {
+    "name": "BMICalculator",
+    "url": "https://scupro.github.io/tool/bmi",
+    "type": "Life"
+  },
+  {
+    "name": "OnlineTool",
+    "url": "https://scupro.github.io/tool/ziwei",
+    "type": "Life"
+  },
+  {
+    "name": "Roulette Wheel Decision Maker",
+    "url": "https://scupro.github.io/tool/dazhuanpan",
+    "type": "Entertainment"
+  },
+  {
+    "name": "OnlineQuery",
+    "url": "https://scupro.github.io/tool/wannianli",
+    "type": "Life"
+  },
+  {
+    "name": "OnlineGenerateURL",
+    "url": "https://scupro.github.io/tool/shortcut",
+    "type": "Webmaster"
+  },
+  {
+    "name": "OnlineTool",
+    "url": "https://scupro.github.io/tool/mingxiang",
+    "type": "Life"
+  },
+  {
+    "name": "Collection",
+    "url": "https://scupro.github.io/tool/taluo",
+    "type": "Entertainment"
+  },
+  {
+    "name": "Simulation：",
+    "url": "https://scupro.github.io/tool/rsckmnq",
+    "type": "Entertainment"
+  },
+  {
+    "name": "QueryTool",
+    "url": "https://scupro.github.io/php/tbyhq",
+    "type": "Life"
+  },
+  {
+    "name": "OnlineTool",
+    "url": "https://scupro.github.io/tool/chizi",
+    "type": "Life"
+  },
+  {
+    "name": "Online_Simulation",
+    "url": "https://scupro.github.io/tool/shizhong",
+    "type": "Life"
+  },
+  {
+    "name": "OnlineTestTool",
+    "url": "https://scupro.github.io/tool/screentest",
+    "type": "Other"
+  },
+  {
+    "name": "WebSocketOnlineTestTool",
+    "url": "https://scupro.github.io/tool/websocket",
+    "type": "Code"
+  },
+  {
+    "name": "OnlineTest",
+    "url": "https://scupro.github.io/tool/shulte",
+    "type": "Entertainment"
+  },
+  {
+    "name": "PunycodeEncodeDecodeTool",
+    "url": "https://scupro.github.io/tool/punycode",
+    "type": "Encryption"
+  },
+  {
+    "name": "ASCIIOnlineConverter",
+    "url": "https://scupro.github.io/tool/asciiConvert",
+    "type": "Converter"
+  },
+  {
+    "name": "CodeTool",
+    "url": "https://scupro.github.io/tool/removeNote",
+    "type": "Code"
+  },
+  {
+    "name": "aaEncodeEncryptDecryptTool",
+    "url": "https://scupro.github.io/tool/aaEncode",
+    "type": "Encryption"
+  },
+  {
+    "name": "XMLFormatCompressTool",
+    "url": "https://scupro.github.io/tool/xml",
+    "type": "Code"
+  },
+  {
+    "name": "URLTool",
+    "url": "https://scupro.github.io/tool/urlAnal",
+    "type": "Code"
+  },
+  {
+    "name": "BrowserQueryTool",
+    "url": "https://scupro.github.io/tool/browserInfo",
+    "type": "Webmaster"
+  },
+  {
+    "name": "2FATool",
+    "url": "https://scupro.github.io/tool/2fa",
+    "type": "Encryption"
+  },
+  {
+    "name": "Base32EncryptDecryptTool",
+    "url": "https://scupro.github.io/tool/base32",
+    "type": "Encryption"
+  },
+  {
+    "name": "md2 hashOnlineEncryptTool",
+    "url": "https://scupro.github.io/tool/md2",
+    "type": "Encryption"
+  },
+  {
+    "name": "GzipEncryptDecrypt_TextDataOnlineCompressTool",
+    "url": "https://scupro.github.io/tool/gzip",
+    "type": "Encryption"
+  },
+  {
+    "name": "htpasswdOnlineGenerateTool",
+    "url": "https://scupro.github.io/tool/htpasswd",
+    "type": "Encryption"
+  },
+  {
+    "name": "OnlineSimulation",
+    "url": "https://scupro.github.io/tool/drums",
+    "type": "Entertainment"
+  },
+  {
+    "name": "Calculator",
+    "url": "https://scupro.github.io/tool/sleep",
+    "type": "Life"
+  },
+  {
+    "name": "OnlineShakeEncryptTool",
+    "url": "https://scupro.github.io/tool/shake",
+    "type": "Encryption"
+  },
+  {
+    "name": "OnlineKeccakEncryptTool",
+    "url": "https://scupro.github.io/tool/keccak",
+    "type": "Encryption"
+  },
+  {
+    "name": "base64toFile(Decode)",
+    "url": "https://scupro.github.io/tool/base64Revert",
+    "type": "Encryption"
+  },
+  {
+    "name": "OnlineCalculator",
+    "url": "https://scupro.github.io/tool/retireAge",
+    "type": "Life"
+  },
+  {
+    "name": "CSSConverterTool",
+    "url": "https://scupro.github.io/tool/unitConvert",
+    "type": "CSS"
+  },
+  {
+    "name": "OnlineBatchGenerator",
+    "url": "https://scupro.github.io/tool/cardPass",
+    "type": "Encryption"
+  },
+  {
+    "name": "1a2bGames(Mind)",
+    "url": "https://scupro.github.io/tool/1a2b",
+    "type": "Entertainment"
+  },
+  {
+    "name": "Online",
+    "url": "https://scupro.github.io/tool/n-puzzle",
+    "type": "Entertainment"
+  },
+  {
+    "name": "OnlineSimulationGames",
+    "url": "https://scupro.github.io/tool/dice",
+    "type": "Entertainment"
+  },
+  {
+    "name": "OnlineRC4EncryptDecryptTool",
+    "url": "https://scupro.github.io/tool/rc4",
+    "type": "Encryption"
+  },
+  {
+    "name": "OnlineMySQLGenerateJavaBeanEntity Class",
+    "url": "https://scupro.github.io/tool/mysqlToJava",
+    "type": "Converter"
+  },
+  {
+    "name": "SQLiteData",
+    "url": "https://scupro.github.io/tool/sqlite",
+    "type": "Code"
+  },
+  {
+    "name": "OnlineTextExtractTool",
+    "url": "https://scupro.github.io/tool/textExtract",
+    "type": "Webmaster"
+  },
+  {
+    "name": "TextTool",
+    "url": "https://scupro.github.io/stringlength",
+    "type": "Other"
+  },
+  {
+    "name": "OnlineJSON5FormatTool",
+    "url": "https://scupro.github.io/tool/json5",
+    "type": "Code"
+  },
+  {
+    "name": "yamlFileEditor(Format)",
+    "url": "https://scupro.github.io/tool/yaml",
+    "type": "Code"
+  },
+  {
+    "name": "OnlineXBMEditor",
+    "url": "https://scupro.github.io/tool/xbm",
+    "type": "Image"
+  },
+  {
+    "name": "EditTool",
+    "url": "https://scupro.github.io/textVertical",
+    "type": "Other"
+  },
+  {
+    "name": "ConverterexcelFileConvertertojsonData",
+    "url": "https://scupro.github.io/tool/exceltoJson",
+    "type": "Converter"
+  },
+  {
+    "name": "OnlineFilehashTool",
+    "url": "https://scupro.github.io/tool/filehash",
+    "type": "Encryption"
+  },
+  {
+    "name": "ConverterFileConverterbase64DataFormat",
+    "url": "https://scupro.github.io/tool/fileBase64",
+    "type": "Converter"
+  },
+  {
+    "name": "Online//Calculator",
+    "url": "https://scupro.github.io/tool/numCode",
+    "type": "Converter"
+  },
+  {
+    "name": "OnlineFontExtract(FontCompressTool)",
+    "url": "https://scupro.github.io/tool/fontSubset",
+    "type": "Webmaster"
+  },
+  {
+    "name": "hmacEncryptTool",
+    "url": "https://scupro.github.io/tool/hmac",
+    "type": "Encryption"
+  },
+  {
+    "name": "rsaGenerateTool",
+    "url": "https://scupro.github.io/tool/rsakey",
+    "type": "Encryption"
+  },
+  {
+    "name": "crcOnlineTool",
+    "url": "https://scupro.github.io/tool/crc",
+    "type": "Encryption"
+  },
+  {
+    "name": "OnlinePasswordEncryptDecryptTool",
+    "url": "https://scupro.github.io/tool/caesarCipher",
+    "type": "Encryption"
+  },
+  {
+    "name": "Onlinelinux chmodGenerator",
+    "url": "https://scupro.github.io/tool/chmod",
+    "type": "Encryption"
+  },
+  {
+    "name": "httpOnlineQuery",
+    "url": "https://scupro.github.io/tool/httpCode",
+    "type": "Code"
+  },
+  {
+    "name": "CommonandQueryTool",
+    "url": "https://scupro.github.io/tool/port",
+    "type": "Code"
+  },
+  {
+    "name": "IPv6CompressTool",
+    "url": "https://scupro.github.io/tool/ipv6Compress",
+    "type": "Webmaster"
+  },
+  {
+    "name": "ImageOnlineTool",
+    "url": "https://scupro.github.io/tool/imgFlip",
+    "type": "Image"
+  },
+  {
+    "name": "ImageBatchTool",
+    "url": "https://scupro.github.io/tool/imgRotate",
+    "type": "Image"
+  },
+  {
+    "name": "IPv4/IPv6OnlineCalculator",
+    "url": "https://scupro.github.io/ipvCidr",
+    "type": "Other"
+  },
+  {
+    "name": "MIMECollection",
+    "url": "https://scupro.github.io/mime",
+    "type": "Other"
+  },
+  {
+    "name": "OnlineMake(Generator)",
+    "url": "https://scupro.github.io/tool/chartLine",
+    "type": "Life"
+  },
+  {
+    "name": "OnlineMake(Generator)",
+    "url": "https://scupro.github.io/tool/chartBar",
+    "type": "Life"
+  },
+  {
+    "name": "OnlineCalculator(Support)",
+    "url": "https://scupro.github.io/tool/factorial",
+    "type": "Other"
+  },
+  {
+    "name": "Calculator()",
+    "url": "https://scupro.github.io/tool/fibonacci",
+    "type": "Other"
+  },
+  {
+    "name": "Calculator()",
+    "url": "https://scupro.github.io/tool/factorization",
+    "type": "Other"
+  },
+  {
+    "name": "CalculatorOnlineUse(/SizeComparison//)",
+    "url": "https://scupro.github.io/tool/fraction",
+    "type": "Other"
+  },
+  {
+    "name": "OnlineMake(Generator)",
+    "url": "https://scupro.github.io/tool/chartPie",
+    "type": "Life"
+  },
+  {
+    "name": "OnlineTool:",
+    "url": "https://scupro.github.io/tool/mathFormula",
+    "type": "Other"
+  },
+  {
+    "name": "MakeTool(Generator)",
+    "url": "https://scupro.github.io/tool/chartTree",
+    "type": "Life"
+  },
+  {
+    "name": "GenerateImageOnlineMake",
+    "url": "https://scupro.github.io/tool/textToImg",
+    "type": "Image"
+  },
+  {
+    "name": "OnlineFreeModifyImagedpiTool",
+    "url": "https://scupro.github.io/tool/imgDpi",
+    "type": "Image"
+  },
+  {
+    "name": "QueryTool",
+    "url": "https://scupro.github.io/tool/position",
+    "type": "Life"
+  },
+  {
+    "name": "OnlineConverter",
+    "url": "https://scupro.github.io/tool/degreeConvert",
+    "type": "Life"
+  },
+  {
+    "name": "Imageto(Image)",
+    "url": "https://scupro.github.io/tool/imgGray",
+    "type": "Image"
+  },
+  {
+    "name": "ImageOnlineCompositeStitching(to)",
+    "url": "https://scupro.github.io/tool/imgStitching",
+    "type": "Image"
+  },
+  {
+    "name": "OnlineCalculator(Collection)",
+    "url": "https://scupro.github.io/tool/area",
+    "type": "Other"
+  },
+  {
+    "name": "RandomipGenerator(SupportIPv4/IPv6Generate)",
+    "url": "https://scupro.github.io/tool/randomIp",
+    "type": "Other"
+  },
+  {
+    "name": "OnlineGenerateTool(Generator)",
+    "url": "https://scupro.github.io/tool/chartSankey",
+    "type": "Life"
+  },
+  {
+    "name": "OnlineTool(Generator)",
+    "url": "https://scupro.github.io/tool/chartRadar",
+    "type": "Life"
+  },
+  {
+    "name": "FileOnlineTool(ZIP/RAR/7Z/TARFormat)",
+    "url": "https://scupro.github.io/tool/unzip",
+    "type": "Life"
+  },
+  {
+    "name": "Simulation(Web)",
+    "url": "https://scupro.github.io/tool/smoke",
+    "type": "Entertainment"
+  },
+  {
+    "name": "OnlineFileWebsite(zipCompressTool)",
+    "url": "https://scupro.github.io/tool/zip",
+    "type": "Life"
+  },
+  {
+    "name": "Calculator(Online)",
+    "url": "https://scupro.github.io/tool/avg",
+    "type": "Other"
+  },
+  {
+    "name": "Calculator(n)",
+    "url": "https://scupro.github.io/tool/squarePower",
+    "type": "Other"
+  },
+  {
+    "name": "Tool",
+    "url": "https://scupro.github.io/tool/projection",
+    "type": "Other"
+  },
+  {
+    "name": "File(/FileTool)",
+    "url": "https://scupro.github.io/tool/fileSplit",
+    "type": "Webmaster"
+  },
+  {
+    "name": "OnlineImagepdfConverter",
+    "url": "https://scupro.github.io/tool/image-to-pdf",
+    "type": "Converter"
+  },
+  {
+    "name": "PCMAudioFileMP3FormatConverter",
+    "url": "https://scupro.github.io/tool/pcm-mp3",
+    "type": "Converter"
+  },
+  {
+    "name": "PCM/MP3/WAVAudioFilePlayerTool",
+    "url": "https://scupro.github.io/tool/wave-player",
+    "type": "Other"
+  },
+  {
+    "name": "OnlineCalculator(Collection)",
+    "url": "https://scupro.github.io/tool/perimeter-calculator",
+    "type": "Other"
+  },
+  {
+    "name": "GeneratorWeb(OnlineGames)",
+    "url": "https://scupro.github.io/tool/maze",
+    "type": "Entertainment"
+  },
+  {
+    "name": "TeX/LaTeXImage",
+    "url": "https://scupro.github.io/tool/latex_img",
+    "type": "Other"
+  },
+  {
+    "name": "EncodeFormatConverterQueryTool",
+    "url": "https://scupro.github.io/tool/char-encode",
+    "type": "Converter"
+  },
+  {
+    "name": "OnlineTool(Generator)",
+    "url": "https://scupro.github.io/tool/chartScatter",
+    "type": "Life"
+  },
+  {
+    "name": "OnlineTool(Generator)",
+    "url": "https://scupro.github.io/tool/chartSunburst",
+    "type": "Life"
+  },
+  {
+    "name": "CalculatorOnlineUse(log/)",
+    "url": "https://scupro.github.io/tool/logarithm-calculator",
+    "type": "Other"
+  },
+  {
+    "name": "Web(Simulation)",
+    "url": "https://scupro.github.io/tool/muyu",
+    "type": "Entertainment"
+  },
+  {
+    "name": "Simulation()",
+    "url": "https://scupro.github.io/tool/fangpi",
+    "type": "Entertainment"
+  },
+  {
+    "name": "macGeneratorWeb",
+    "url": "https://scupro.github.io/tool/mac-generate",
+    "type": "Webmaster"
+  },
+  {
+    "name": "OnlineCalculator( )",
+    "url": "https://scupro.github.io/tool/volume",
+    "type": "Other"
+  },
+  {
+    "name": "CalculatorOnline()",
+    "url": "https://scupro.github.io/tool/area-surface",
+    "type": "Other"
+  },
+  {
+    "name": "OnlineWeb(Random)",
+    "url": "https://scupro.github.io/tool/rollcall",
+    "type": "Life"
+  },
+  {
+    "name": "One-clickGenerator",
+    "url": "https://scupro.github.io/tool/qianming",
+    "type": "Life"
+  },
+  {
+    "name": "FileGenerateTool",
+    "url": "https://scupro.github.io/tool/folder_tree",
+    "type": "Code"
+  },
+  {
+    "name": "jwtDecryptTool(jwtOnlineDecode)",
+    "url": "https://scupro.github.io/tool/jwt",
+    "type": "Encryption"
+  },
+  {
+    "name": "SM2EncryptDecryptTool",
+    "url": "https://scupro.github.io/tool/sm2",
+    "type": "Encryption"
+  },
+  {
+    "name": "rabbitEncryptDecryptTool",
+    "url": "https://scupro.github.io/tool/rabbit",
+    "type": "Encryption"
+  },
+  {
+    "name": "Generator",
+    "url": "https://scupro.github.io/tool/telbiao",
+    "type": "Life"
+  },
+  {
+    "name": "CharacterOnlineQuery",
+    "url": "https://scupro.github.io/tool/bihua",
+    "type": "Other"
+  },
+  {
+    "name": "Converter",
+    "url": "https://scupro.github.io/tool/fullhalf",
+    "type": "Converter"
+  },
+  {
+    "name": "CharacterOnlineConverter",
+    "url": "https://scupro.github.io/tool/wubi",
+    "type": "Converter"
+  },
+  {
+    "name": "gifImageOnlineMakeGenerator",
+    "url": "https://scupro.github.io/tool/gifmake",
+    "type": "Image"
+  },
+  {
+    "name": "(ImageexifOnlineQuery)",
+    "url": "https://scupro.github.io/tool/imgexif",
+    "type": "Image"
+  },
+  {
+    "name": "VideoFormatConverter",
+    "url": "https://scupro.github.io/tool/video_convert",
+    "type": "Converter"
+  },
+  {
+    "name": "Calculator()",
+    "url": "https://scupro.github.io/tool/childheight",
+    "type": "Life"
+  },
+  {
+    "name": "Chinese Historical Dynasties Table",
+    "url": "https://scupro.github.io/tool/chaodai",
+    "type": "Other"
+  },
+  {
+    "name": "Generator",
+    "url": "https://scupro.github.io/tool/shuxueti",
+    "type": "Other"
+  },
+  {
+    "name": "Pinyin",
+    "url": "https://scupro.github.io/tool/zimu",
+    "type": "Other"
+  },
+  {
+    "name": "WebsiteCodeOnlineQueryTool(htmlWeb)",
+    "url": "https://scupro.github.io/tool/view_source",
+    "type": "Webmaster"
+  },
+  {
+    "name": "OnlineTranslateTool",
+    "url": "https://scupro.github.io/tool/translate",
+    "type": "Life"
+  },
+  {
+    "name": "adbCommonandCollection",
+    "url": "https://scupro.github.io/tool/adb",
+    "type": "Code"
+  },
+  {
+    "name": "OnlineSecurityQuery",
+    "url": "https://scupro.github.io/tool/calcday",
+    "type": "Life"
+  },
+  {
+    "name": "Tool(Simulation)",
+    "url": "https://scupro.github.io/tool/caipiao",
+    "type": "Entertainment"
+  },
+  {
+    "name": "SM4OnlineEncrypt/DecryptTool",
+    "url": "https://scupro.github.io/tool/sm4",
+    "type": "Encryption"
+  },
+  {
+    "name": "OnlineTool()",
+    "url": "https://scupro.github.io/tool/jifenban",
+    "type": "Other"
+  },
+  {
+    "name": "TripleDES/3DESOnlineEncryptDecryptTool",
+    "url": "https://scupro.github.io/tool/tripledes",
+    "type": "Encryption"
+  },
+  {
+    "name": "Online",
+    "url": "https://scupro.github.io/tool/game_els",
+    "type": "Entertainment"
+  },
+  {
+    "name": "2048GamesWeb(Composite)",
+    "url": "https://scupro.github.io/tool/game_2048",
+    "type": "Entertainment"
+  },
+  {
+    "name": "ripemd160HashEncryptTool",
+    "url": "https://scupro.github.io/tool/ripemd160",
+    "type": "Encryption"
+  },
+  {
+    "name": "MermaidOnlineMakeEditor",
+    "url": "https://scupro.github.io/tool/mermaid",
+    "type": "Image"
+  },
+  {
+    "name": "hex/base64/OnlineConverterTool",
+    "url": "https://scupro.github.io/tool/base64_hex",
+    "type": "Converter"
+  },
+  {
+    "name": "Converter",
+    "url": "https://scupro.github.io/tool/num_roman",
+    "type": "Converter"
+  },
+  {
+    "name": "ConverterQueryTool",
+    "url": "https://scupro.github.io/tool/bazi",
+    "type": "Converter"
+  },
+  {
+    "name": "Reference Table(Query)",
+    "url": "https://scupro.github.io/tool/jiazitable",
+    "type": "Other"
+  },
+  {
+    "name": "QueryTool(Entertainment)",
+    "url": "https://scupro.github.io/tool/xingzuo",
+    "type": "Entertainment"
+  },
+  {
+    "name": "CSSGenerator(Style)",
+    "url": "https://scupro.github.io/tool/bubble",
+    "type": "CSS"
+  },
+  {
+    "name": "CSSCodeGenerator(text-shadowStyle)",
+    "url": "https://scupro.github.io/tool/text_shadow",
+    "type": "CSS"
+  },
+  {
+    "name": "divGenerator(box-shadowStyle)",
+    "url": "https://scupro.github.io/tool/div_shadow",
+    "type": "CSS"
+  },
+  {
+    "name": "CodeReference TableQueryTool(CodeCollection)",
+    "url": "https://scupro.github.io/tool/langcodes",
+    "type": "Code"
+  },
+  {
+    "name": "Shield BadgeGenerator",
+    "url": "https://scupro.github.io/tool/shieldbadge",
+    "type": "CSS"
+  },
+  {
+    "name": "phpCommonReferenceManualQueryTool",
+    "url": "https://scupro.github.io/tool/phpfun",
+    "type": "Code"
+  },
+  {
+    "name": "ImageConvertersvgFormatOnlineGenerator",
+    "url": "https://scupro.github.io/tool/imgtosvg",
+    "type": "Image"
+  },
+  {
+    "name": "Tool()",
+    "url": "https://scupro.github.io/tool/color_middle",
+    "type": "CSS"
+  },
+  {
+    "name": "Tool(Color///Color)",
+    "url": "https://scupro.github.io/tool/color_tool",
+    "type": "CSS"
+  },
+  {
+    "name": "ToolOnlineUse",
+    "url": "https://scupro.github.io/tool/name_sort",
+    "type": "Life"
+  },
+  {
+    "name": "CharacterOnlineQuery",
+    "url": "https://scupro.github.io/tool/bihua_hanzi",
+    "type": "Other"
+  },
+  {
+    "name": "PPIOnlineCalculator",
+    "url": "https://scupro.github.io/tool/ppi",
+    "type": "Other"
+  },
+  {
+    "name": "TextConverterTool",
+    "url": "https://scupro.github.io/tool/text_binary",
+    "type": "Converter"
+  },
+  {
+    "name": "Filemd5Tool",
+    "url": "https://scupro.github.io/tool/file_md5",
+    "type": "Other"
+  },
+  {
+    "name": "bccTool(or)",
+    "url": "https://scupro.github.io/tool/bcc",
+    "type": "Converter"
+  },
+  {
+    "name": "LoanCalculator",
+    "url": "https://scupro.github.io/tool/daikuan",
+    "type": "Life"
+  },
+  {
+    "name": "Calculator(///)",
+    "url": "https://scupro.github.io/tool/cunkuan",
+    "type": "Life"
+  },
+  {
+    "name": "pptCommonCollectionQuery",
+    "url": "https://scupro.github.io/tool/shortcut_ppt",
+    "type": "Other"
+  },
+  {
+    "name": "psCommonCollection",
+    "url": "https://scupro.github.io/tool/shortcut_ps",
+    "type": "Other"
+  },
+  {
+    "name": "WebOnline",
+    "url": "https://scupro.github.io/tool/snake",
+    "type": "Entertainment"
+  },
+  {
+    "name": "TestTool()",
+    "url": "https://scupro.github.io/tool/fanying",
+    "type": "Entertainment"
+  },
+  {
+    "name": "CpsTestWeb()",
+    "url": "https://scupro.github.io/tool/checkcps",
+    "type": "Entertainment"
+  },
+  {
+    "name": "(Calculator)",
+    "url": "https://scupro.github.io/tool/angle",
+    "type": "Other"
+  },
+  {
+    "name": "vscodeQueryTool",
+    "url": "https://scupro.github.io/tool/shortcut_vscode",
+    "type": "Code"
+  },
+  {
+    "name": "excelCollection",
+    "url": "https://scupro.github.io/tool/shortcut_excel",
+    "type": "Other"
+  },
+  {
+    "name": "Calculator()",
+    "url": "https://scupro.github.io/tool/calclcm",
+    "type": "Other"
+  },
+  {
+    "name": "Barcode",
+    "url": "https://scupro.github.io/tool/barcodeparse",
+    "type": "QR Code"
+  },
+  {
+    "name": "PDFImageExtract(pdf ImageTool)",
+    "url": "https://scupro.github.io/tool/pdf_imgs",
+    "type": "Image"
+  },
+  {
+    "name": "wordCollection",
+    "url": "https://scupro.github.io/tool/shortcut_word",
+    "type": "Other"
+  },
+  {
+    "name": "Collection(Query)",
+    "url": "https://scupro.github.io/tool/zhaopiansize",
+    "type": "Life"
+  },
+  {
+    "name": "Reference Table",
+    "url": "https://scupro.github.io/tool/zhizhangsize",
+    "type": "Other"
+  },
+  {
+    "name": "IRRCalculator",
+    "url": "https://scupro.github.io/tool/irr",
+    "type": "Life"
+  },
+  {
+    "name": "GamesOnline(/Fun/)",
+    "url": "https://scupro.github.io/tool/game_rps",
+    "type": "Entertainment"
+  },
+  {
+    "name": "etc.QueryTool",
+    "url": "https://scupro.github.io/tool/college_info",
+    "type": "Life"
+  },
+  {
+    "name": "htmljsonTool(Webtablejson)",
+    "url": "https://scupro.github.io/tool/table2json",
+    "type": "Converter"
+  },
+  {
+    "name": "GamesSimulation(, )",
+    "url": "https://scupro.github.io/tool/niepaopao",
+    "type": "Entertainment"
+  },
+  {
+    "name": "Simulation(Online)",
+    "url": "https://scupro.github.io/tool/fireworks",
+    "type": "Entertainment"
+  },
+  {
+    "name": "TranslateReference TableOnlineQuery",
+    "url": "https://scupro.github.io/tool/telegraph",
+    "type": "Encryption"
+  },
+  {
+    "name": "InvestmentCalculator",
+    "url": "https://scupro.github.io/tool/invest",
+    "type": "Life"
+  },
+  {
+    "name": "OnlineSimulationWebsite(Online)",
+    "url": "https://scupro.github.io/tool/mofang",
+    "type": "Entertainment"
+  },
+  {
+    "name": "Reference",
+    "url": "https://scupro.github.io/tool/child_height",
+    "type": "Life"
+  },
+  {
+    "name": "BFROnlineCalculator",
+    "url": "https://scupro.github.io/tool/bfr",
+    "type": "Life"
+  },
+  {
+    "name": "Reference Table(Reference)",
+    "url": "https://scupro.github.io/tool/sanwei",
+    "type": "Other"
+  },
+  {
+    "name": "BMRCalculator",
+    "url": "https://scupro.github.io/tool/bmr",
+    "type": "Life"
+  },
+  {
+    "name": "OnlineCalculator(Reference Table)",
+    "url": "https://scupro.github.io/tool/taiertizhong",
+    "type": "Life"
+  },
+  {
+    "name": "FileSizeModifyTool(OnlineFile)",
+    "url": "https://scupro.github.io/tool/file_resize",
+    "type": "Other"
+  },
+  {
+    "name": "WebOnline",
+    "url": "https://scupro.github.io/tool/reversi",
+    "type": "Entertainment"
+  },
+  {
+    "name": "Random(Tool)",
+    "url": "https://scupro.github.io/tool/team_group",
+    "type": "Life"
+  },
+  {
+    "name": "chromeBrowserandCollection",
+    "url": "https://scupro.github.io/tool/shortcut_chrome",
+    "type": "Other"
+  },
+  {
+    "name": "OCRImageIdentifyTool(OnlineExtract)",
+    "url": "https://scupro.github.io/tool/img_ocr",
+    "type": "Image"
+  },
+  {
+    "name": "lorem ipsumGenerator",
+    "url": "https://scupro.github.io/tool/lorem_ipsum",
+    "type": "Other"
+  },
+  {
+    "name": "OnlineTool(Text)",
+    "url": "https://scupro.github.io/tool/text_voice",
+    "type": "Converter"
+  },
+  {
+    "name": "htmlImage/Video/Audio/URL/BatchExtract",
+    "url": "https://scupro.github.io/tool/html_extract",
+    "type": "Code"
+  },
+  {
+    "name": "/CheckImage",
+    "url": "https://scupro.github.io/tool/color_blindness",
+    "type": "Image"
+  },
+  {
+    "name": "OnlineTestToolWebsite",
+    "url": "https://scupro.github.io/tool/keyboard",
+    "type": "Other"
+  },
+  {
+    "name": "DomaindnsQueryWebsite(nslookupQuery)",
+    "url": "https://scupro.github.io/php/dns",
+    "type": "Webmaster"
+  },
+  {
+    "name": "DomainSSLTimeBatchQueryTool",
+    "url": "https://scupro.github.io/php/sslquery",
+    "type": "Webmaster"
+  },
+  {
+    "name": "URLDecodeEncodeConverterTool(urlencodeOnlineConverter)",
+    "url": "https://scupro.github.io/tool/urldecode",
+    "type": "Encryption"
+  },
+  {
+    "name": "jsonphpTool",
+    "url": "https://scupro.github.io/tool/json_php",
+    "type": "Converter"
+  },
+  {
+    "name": "cookieFormatConverterjsonTool",
+    "url": "https://scupro.github.io/tool/cookie_json",
+    "type": "Converter"
+  },
+  {
+    "name": "OnlineWebsitecdnCheckTool(cdnQuery)",
+    "url": "https://scupro.github.io/tool/cdn_check",
+    "type": "Webmaster"
+  },
+  {
+    "name": "jsonFileTool(json)",
+    "url": "https://scupro.github.io/tool/json_slice",
+    "type": "Converter"
+  },
+  {
+    "name": "WebCheckTool(seoArticleQuery)",
+    "url": "https://scupro.github.io/tool/keyword_check",
+    "type": "Webmaster"
+  },
+  {
+    "name": "WebgzipCompressCheckTool(WebsitegzipOnlineQuery)",
+    "url": "https://scupro.github.io/php/gzipcheck",
+    "type": "Webmaster"
+  },
+  {
+    "name": "WebSimulationTestTool",
+    "url": "https://scupro.github.io/tool/web_spider",
+    "type": "Webmaster"
+  },
+  {
+    "name": "QueryTool(Code)",
+    "url": "https://scupro.github.io/tool/country_code",
+    "type": "Other"
+  },
+  {
+    "name": "FileFormatCollection(MimeType)",
+    "url": "https://scupro.github.io/tool/mimetype",
+    "type": "Code"
+  },
+  {
+    "name": "ImageQueryTool(Image)",
+    "url": "https://scupro.github.io/tool/img_coord",
+    "type": "Image"
+  },
+  {
+    "name": "PPTImageExtractTool(pptBatchImage)",
+    "url": "https://scupro.github.io/tool/ppt_img",
+    "type": "Image"
+  },
+  {
+    "name": "WeChatPublicQR CodeOnlineGenerator",
+    "url": "https://scupro.github.io/tool/wx_qrcode",
+    "type": "QR Code"
+  },
+  {
+    "name": "heicImageFormatConverter(heicImage)",
+    "url": "https://scupro.github.io/tool/heicimg",
+    "type": "Image"
+  },
+  {
+    "name": "OnlineWebsiteicon",
+    "url": "https://scupro.github.io/tool/web_icon",
+    "type": "Image"
+  },
+  {
+    "name": "pngImageOnlineColorTool",
+    "url": "https://scupro.github.io/tool/png_bg",
+    "type": "Image"
+  },
+  {
+    "name": "ExcelImageExtractTool(BatchexcelImage)",
+    "url": "https://scupro.github.io/tool/excel_img",
+    "type": "Image"
+  },
+  {
+    "name": "/ProcessTool(ImageColor)",
+    "url": "https://scupro.github.io/tool/img_colorreverse",
+    "type": "Image"
+  },
+  {
+    "name": "DateTimeCalculator(Time)",
+    "url": "https://scupro.github.io/tool/day_riqi",
+    "type": "Life"
+  },
+  {
+    "name": "gpaCalculator(Online)",
+    "url": "https://scupro.github.io/tool/gpa_calculator",
+    "type": "Other"
+  },
+  {
+    "name": "Calculator(//etc.//)",
+    "url": "https://scupro.github.io/tool/matrix_calculator",
+    "type": "Other"
+  },
+  {
+    "name": "PIQuery(πQuery)",
+    "url": "https://scupro.github.io/tool/pi_query",
+    "type": "Other"
+  },
+  {
+    "name": "Tap codeConverterTool(DecryptReference Table)",
+    "url": "https://scupro.github.io/tool/tapcode",
+    "type": "Encryption"
+  },
+  {
+    "name": "PasswordConverter(DecryptReference Table)",
+    "url": "https://scupro.github.io/tool/atbash",
+    "type": "Encryption"
+  },
+  {
+    "name": "base16EncryptDecryptTool(base16OnlineDecodeConverter)",
+    "url": "https://scupro.github.io/tool/base16",
+    "type": "Encryption"
+  },
+  {
+    "name": "PasswordOnlineDecryptEncryptTool",
+    "url": "https://scupro.github.io/tool/beaufort",
+    "type": "Encryption"
+  },
+  {
+    "name": "24TimeQuery(24/)",
+    "url": "https://scupro.github.io/tool/24jieqi",
+    "type": "Life"
+  },
+  {
+    "name": "OnlinejsonprotobufTool",
+    "url": "https://scupro.github.io/tool/json_protobuf",
+    "type": "Converter"
+  },
+  {
+    "name": "typescripttojsTool(js/tsConverter)",
+    "url": "https://scupro.github.io/tool/ts_js",
+    "type": "Converter"
+  },
+  {
+    "name": "JSON/TOMLConverter(jsontomlTool)",
+    "url": "https://scupro.github.io/tool/json_toml",
+    "type": "Converter"
+  },
+  {
+    "name": "Classical PoetryGames",
+    "url": "https://scupro.github.io/tool/poetry_chains",
+    "type": "Entertainment"
+  },
+  {
+    "name": "PasswordDecryptTranslate(PasswordConverterReference Table)",
+    "url": "https://scupro.github.io/tool/four_square",
+    "type": "Encryption"
+  },
+  {
+    "name": "OnlineConverterTool(a1z26EncryptConverter)",
+    "url": "https://scupro.github.io/tool/a1z26",
+    "type": "Encryption"
+  },
+  {
+    "name": "pdfDataModify(pdfEditTool)",
+    "url": "https://scupro.github.io/tool/pdfmeta",
+    "type": "Converter"
+  },
+  {
+    "name": "pdfModifyTool(pdfContentsConverterImage)",
+    "url": "https://scupro.github.io/tool/pdf_intensify",
+    "type": "Image"
+  },
+  {
+    "name": "Website/AnalysisTool",
+    "url": "https://scupro.github.io/tool/web_log",
+    "type": "Webmaster"
+  },
+  {
+    "name": "css3Tool",
+    "url": "https://scupro.github.io/tool/cubic_bezier",
+    "type": "CSS"
+  },
+  {
+    "name": "Rot13OnlineEncryptDecryptTool(rot13Encode)",
+    "url": "https://scupro.github.io/tool/rot13",
+    "type": "Encryption"
+  },
+  {
+    "name": "PasswordOnlineEncryptDecryptTool",
+    "url": "https://scupro.github.io/tool/railfence",
+    "type": "Encryption"
+  },
+  {
+    "name": "PasswordConverter/Reference Table",
+    "url": "https://scupro.github.io/tool/vigenere",
+    "type": "Encryption"
+  },
+  {
+    "name": "phpCodeFormatOnline(phpCodeBeautifyTool)",
+    "url": "https://scupro.github.io/tool/php_format",
+    "type": "Code"
+  },
+  {
+    "name": "ArticleCheckToolOnlineCheck(Text)",
+    "url": "https://scupro.github.io/tool/similar",
+    "type": "Webmaster"
+  },
+  {
+    "name": "TextComparisonConverterTool(Text//)",
+    "url": "https://scupro.github.io/tool/text_compare",
+    "type": "Converter"
+  },
+  {
+    "name": "TextTool(//Pinyin/Online)",
+    "url": "https://scupro.github.io/tool/text_sort",
+    "type": "Converter"
+  },
+  {
+    "name": "CSRFileTool(csrContents)",
+    "url": "https://scupro.github.io/tool/csr_decoder",
+    "type": "Code"
+  },
+  {
+    "name": "csrFileGenerator(OnlineGenerateFileCSR)",
+    "url": "https://scupro.github.io/tool/csr_create",
+    "type": "Code"
+  },
+  {
+    "name": "SSLFormatConverterTool(PEM/DER/CER/CRT/HEX)",
+    "url": "https://scupro.github.io/tool/certificate_conversion",
+    "type": "Converter"
+  },
+  {
+    "name": "PBKDF2OnlineDecryptTool()",
+    "url": "https://scupro.github.io/tool/pbkdf2",
+    "type": "Encryption"
+  },
+  {
+    "name": "RijndaelEncryptDecryptTool(AESEncrypt)",
+    "url": "https://scupro.github.io/tool/rijndael",
+    "type": "Encryption"
+  },
+  {
+    "name": "OnlineCalculator(/or/or///)",
+    "url": "https://scupro.github.io/tool/bitwise",
+    "type": "Converter"
+  },
+  {
+    "name": "CharacterConverterQueryTool(OnlineConverter)",
+    "url": "https://scupro.github.io/tool/quweima",
+    "type": "Converter"
+  },
+  {
+    "name": "Adjust/Calculator",
+    "url": "https://scupro.github.io/tool/adjusted_weight",
+    "type": "Life"
+  },
+  {
+    "name": "(FFMICalculator)",
+    "url": "https://scupro.github.io/tool/ffmi_calculator",
+    "type": "Life"
+  },
+  {
+    "name": "CalculatorOnline(ABSI)",
+    "url": "https://scupro.github.io/tool/absi_calculator",
+    "type": "Life"
+  },
+  {
+    "name": "Calculator(Tool)",
+    "url": "https://scupro.github.io/tool/bignum_calculator",
+    "type": "Other"
+  },
+  {
+    "name": "Sm3EncryptTool(SM3HashOnline)",
+    "url": "https://scupro.github.io/tool/sm3",
+    "type": "Encryption"
+  },
+  {
+    "name": "xmltoexcelTool(xmlcsvFile)",
+    "url": "https://scupro.github.io/tool/xml2excel",
+    "type": "Converter"
+  },
+  {
+    "name": "xmlgolangTool(xmlOnlineGenerategoCode)",
+    "url": "https://scupro.github.io/tool/xml2go",
+    "type": "Converter"
+  },
+  {
+    "name": "pxremConverter(cssBatchpxremTool)",
+    "url": "https://scupro.github.io/tool/px_rem",
+    "type": "CSS"
+  },
+  {
+    "name": "TextdeflateCompress/Tool",
+    "url": "https://scupro.github.io/tool/deflate",
+    "type": "Encryption"
+  },
+  {
+    "name": "BrotliCompress/Tool",
+    "url": "https://scupro.github.io/tool/brotli",
+    "type": "Encryption"
+  },
+  {
+    "name": "ImageOnlineGenerator(ImageColorExtractIdentify)",
+    "url": "https://scupro.github.io/tool/img_colorpicker",
+    "type": "Image"
+  },
+  {
+    "name": "cssColorCode(htmlColorCodeReference TableCollection)",
+    "url": "https://scupro.github.io/tool/css_colorname",
+    "type": "CSS"
+  },
+  {
+    "name": "htmlCodeTool",
+    "url": "https://scupro.github.io/tool/html_escape",
+    "type": "Code"
+  },
+  {
+    "name": "QueryTool()",
+    "url": "https://scupro.github.io/tool/subway_search",
+    "type": "Life"
+  },
+  {
+    "name": "Calculator()",
+    "url": "https://scupro.github.io/tool/cat_age",
+    "type": "Other"
+  },
+  {
+    "name": "SalaryCalculatorWeb(Income)",
+    "url": "https://scupro.github.io/tool/salary_cal",
+    "type": "Other"
+  },
+  {
+    "name": "GamesWeb",
+    "url": "https://scupro.github.io/tool/dinosaur",
+    "type": "Entertainment"
+  },
+  {
+    "name": "LoopTapeTime Games(Simple Games)",
+    "url": "https://scupro.github.io/tool/looptap",
+    "type": "Entertainment"
+  },
+  {
+    "name": "OnlineCalculator(Tool)",
+    "url": "https://scupro.github.io/tool/dianfei",
+    "type": "Life"
+  },
+  {
+    "name": "Calculator()",
+    "url": "https://scupro.github.io/tool/oil_calculator",
+    "type": "Life"
+  },
+  {
+    "name": "jsonPython/DictionaryCodeGenerator",
+    "url": "https://scupro.github.io/tool/json2python",
+    "type": "Converter"
+  }
+]
