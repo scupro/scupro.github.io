@@ -1,1 +1,0 @@
-### css10： 1、 ：p{} 2、 ：.xx{} 3、ID ：#xx{} 4、 ：p a{} 5、 ：p>a{} 6、 ：p+a{},pa 7、 ：p,a{} 8、 ：img[alt],altimg 9、 ：a:hover{} 10、 > ：，， css3 ，，。 ### Tool URL URL：[CSS](https://scupro.github.io/tool/cssel/) Source：[https://scupro.github.io/tool/detial/116](https://scupro.github.io/tool/detial/116) 

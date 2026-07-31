@@ -1,1 +1,0 @@
-Animate.csscss3,。 ### Animate.css CSS3 ，（shake）、（flash）、（bounce）、（flip）、（rotateIn/rotateOut）、（fadeIn/fadeOut） 60 ，。 animate.css 、 CSS3 ， animate.css ，。 ### ： CSS3 animate ，：IE10+、Firefox、Chrome、Opera、Safari。 ### Tool URL URL：[Animate.css](https://scupro.github.io/tool/animate/) Source：[https://scupro.github.io/tool/detial/29](https://scupro.github.io/tool/detial/29)

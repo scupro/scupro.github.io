@@ -1,1 +1,0 @@
-，，，。 1、“”，。。 ： （、、），，。 2、 ()： ![](https://api.scupro.github.io/vue_blog/public/Uploads/20211009/61614d084d4b1.png) - =××/365 - =[（ / ）/ ] * 365 ×100% - =× 3、 ，“”，7，“”。，“”。“”，。（“”）。 ### Tool URL URL：[（）](https://scupro.github.io/tool/nianlvli/) Source：[https://scupro.github.io/tool/detial/126](https://scupro.github.io/tool/detial/126) 

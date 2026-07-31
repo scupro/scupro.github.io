@@ -1,1 +1,0 @@
-Tool，，，，，。 ：qq，qqsmtpFeatures。： 1.POP3/SMTP 2. 3.，，‘’ 4. ### Tool URL URL：[Tool](https://scupro.github.io/php/mailer/) Source：[https://scupro.github.io/tool/detial/93](https://scupro.github.io/tool/detial/93) 

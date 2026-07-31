@@ -1,1 +1,0 @@
-### ToolDescription 。，，“”“”。 ### 50000，3%，30，，30，：50000×（1+3%）^30 ### F=P*(1+i)N() F： P： i： N： ### Tool URL URL：[_](https://scupro.github.io/tool/fuli/) Source：[https://scupro.github.io/tool/detial/176](https://scupro.github.io/tool/detial/176) 
